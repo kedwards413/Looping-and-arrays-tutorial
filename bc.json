@@ -90,7 +90,7 @@
         {
             "slug": "05.1-Loop-from-one-to-seventeen",
             "title": "05.1-Loop-from-one-to-seventeen",
-            "done": false,
+            "done": true,
             "path": "exercises/05.1-Loop-from-one-to-seventeen",
             "translations": [
                 "es",
@@ -101,7 +101,7 @@
         {
             "slug": "05.2-Loop-from-seven-to-twelve",
             "title": "05.2-Loop-from-seven-to-twelve",
-            "done": false,
+            "done": true,
             "path": "exercises/05.2-Loop-from-seven-to-twelve",
             "translations": [
                 "es",
@@ -112,7 +112,7 @@
         {
             "slug": "05.3-Add-items-to-array",
             "title": "05.3-Add-items-to-array",
-            "done": false,
+            "done": true,
             "path": "exercises/05.3-Add-items-to-array",
             "translations": [
                 "es",
