@@ -189,7 +189,7 @@
         {
             "slug": "07.1-Finding-Waldo",
             "title": "07.1-Finding-Waldo",
-            "done": false,
+            "done": true,
             "path": "exercises/07.1-Finding-Waldo",
             "translations": [
                 "es",
@@ -211,7 +211,7 @@
         {
             "slug": "07.3-Flip-Array",
             "title": "07.3-Flip-Array",
-            "done": false,
+            "done": true,
             "path": "exercises/07.3-Flip-Array",
             "translations": [
                 "es",
@@ -222,7 +222,7 @@
         {
             "slug": "08.1-Mixed-array",
             "title": "08.1-Mixed-array",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-Mixed-array",
             "translations": [
                 "es",
@@ -233,7 +233,7 @@
         {
             "slug": "08.2-Count-On",
             "title": "08.2-Count-On",
-            "done": false,
+            "done": true,
             "path": "exercises/08.2-Count-On",
             "translations": [
                 "es",
@@ -266,7 +266,7 @@
         {
             "slug": "10.1-Everything-is-awesome",
             "title": "10.1-Everything-is-awesome",
-            "done": false,
+            "done": true,
             "path": "exercises/10.1-Everything-is-awesome",
             "translations": [
                 "es",

@@ -4,10 +4,6 @@ let hello = [];
 for(let index = 0; index < myArray.length; index++){
     let element = myArray[index];
     // MAGIC HAPPENS HERE
-    if (typeof(element)== "boolean" || typeof(element)== "string"){
-        hello.push(element);
-    }
-   
 }
 
 console.log(hello)

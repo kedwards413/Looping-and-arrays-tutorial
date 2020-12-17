@@ -1,8 +1,6 @@
 let i = 20;
-let number = "!";
-number = i%5===0;
 do {
-    console.log(i,number)
+    // Magic goes here;
     
     i--;
 } while (i > 0);
