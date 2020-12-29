@@ -1,10 +1,12 @@
 let i = 20;
-let number = "!"
+
 do {
-    if (i=20, i>0, i--){
-        console.log(i+number)
+    if (i % 5=== 0){
+         i += "!"
     }
     
+        console.log(i)
+
     i--;
 } while (i > 0);
 console.log('LIFTOFF')
