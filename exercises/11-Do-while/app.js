@@ -1,8 +1,9 @@
 let i = 20;
-let number = "!";
-number = i%5===0;
+let number = "!"
 do {
-    console.log(i,number)
+    if (i=20, i>0, i--){
+        console.log(i+number)
+    }
     
     i--;
 } while (i > 0);

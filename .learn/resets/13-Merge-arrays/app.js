@@ -3,8 +3,8 @@ var chunk_two = [ 'Lucas' , 'Jake','Scott','Amy', 'Molly','Hannah','Lucas'];
 
 const mergeArrays = (firstArray, secondArray) => {
     let newArray = []
-    var newGroup = chunk_one.concat(chunk_two)
-    return newGroup
+    //your code here
+    return newArray
 }
 
 console.log(mergeArrays(chunk_one, chunk_two));

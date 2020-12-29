@@ -299,7 +299,7 @@
         {
             "slug": "13-Merge-arrays",
             "title": "13-Merge-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Merge-arrays",
             "translations": [
                 "es",
