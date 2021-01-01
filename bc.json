@@ -310,7 +310,7 @@
         {
             "slug": "14-Divide-and-Conquer",
             "title": "14-Divide-and-Conquer",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Divide-and-Conquer",
             "translations": [
                 "es",
