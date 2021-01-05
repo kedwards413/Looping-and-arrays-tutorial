@@ -7,7 +7,14 @@ let people = [
 ];
 
 let simplifier = function(person){
-	return person.name;
+    let currentDate = new Date ();
+    let age = currentDate.getFullYear() - person.birthDate.getFullYear();
+    let month = currentDate.getMonth() - person.birthDate.getMonth();
+        if (month < 0 || (month === 0 && currentDate.getDate() < person.birthDate.getDate())){
+            age = age - 1;
+        }
+        return ("Hello, my name is " + person.name + " and I am " + age + " years old")
 };
+let newArray = people.map(simplifier);
 
-console.log(people.map(simplifier));
+console.log(newArray);

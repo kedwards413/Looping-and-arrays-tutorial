@@ -387,7 +387,7 @@
         {
             "slug": "20.2-More-mapping",
             "title": "20.2-More-mapping",
-            "done": false,
+            "done": true,
             "path": "exercises/20.2-More-mapping",
             "translations": [
                 "es",
@@ -398,7 +398,7 @@
         {
             "slug": "20.3-Map-with-function-inside-variable",
             "title": "20.3-Map-with-function-inside-variable",
-            "done": false,
+            "done": true,
             "path": "exercises/20.3-Map-with-function-inside-variable",
             "translations": [
                 "es",
@@ -409,7 +409,7 @@
         {
             "slug": "20.4-Map-data-types",
             "title": "20.4-Map-data-types",
-            "done": false,
+            "done": true,
             "path": "exercises/20.4-Map-data-types",
             "translations": [
                 "es",
