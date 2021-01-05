@@ -376,7 +376,7 @@
         {
             "slug": "20.1-Map-an-array",
             "title": "20.1-Map-an-array",
-            "done": false,
+            "done": true,
             "path": "exercises/20.1-Map-an-array",
             "translations": [
                 "es",
